@@ -11,20 +11,6 @@ def main():
     print_virheita()
     print_lisaa_varastoihin(olutta, mehua)
     print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
-    print_saatiin_varastoista(olutta, mehua)
 
 def print_luonti_varasto(mehua, olutta):
 
